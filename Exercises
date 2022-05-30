@@ -1,0 +1,10 @@
+#add,diff,produc,div numbers
+n =int("input number")
+add = a+b
+produc = a*b
+diff = a-b
+div = a//b
+print("sum",of number:)
+print("produc", of num :)
+print("diff",of num :)
+print("div" of num :)
